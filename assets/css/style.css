@@ -1,0 +1,27 @@
+#game {
+    background-color: white;
+    width: 95%;
+    max-width: 250px;
+    border: 1px solid;
+    border-radius: 25px;
+    display: block;
+    margin: 9px auto;
+    padding: 9px 0;
+    text-align: center;
+}
+
+.opcao {
+    border: 5px solid white;
+    padding-top: 11px;
+    background-color: rgb(130, 64, 216);
+    border-radius: 8px;
+    width: 30%;
+    height: 50px;
+    display: inline-block;
+    transition: .4s;
+    cursor: pointer;
+}
+
+.opcao:hover {
+    background-color: rgb(12, 98, 148);
+}
