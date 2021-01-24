@@ -22,6 +22,6 @@
     cursor: pointer;
 }
 
-.opcao:hover {
+.option:hover {
     background-color: rgb(12, 98, 148);
 }
